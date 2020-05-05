@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "image": "./assets/images/1917-poster-2.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 2,
+        "image": "./assets/images/antebellum_ver3_xlg.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 3,
+        "image": "./assets/images/cometodaddyposter.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 4,
+        "image": "./assets/images/fast9.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 5,
+        "image": "./assets/images/grethanposter.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 6,
+        "image": "./assets/images/guns-akimbo-poster.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 7,
+        "image": "./assets/images/no_time_to_die_poster7.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 8,
+        "image": "./assets/images/quiet_place.jpeg",
+        "clicked": false
+    },
+    {
+        "id" : 9,
+        "image": "./assets/images/robertbruceposter2.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 10,
+        "image": "./assets/images/sonic_the_hedgehog.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 11,
+        "image": "./assets/images/the-king-poster.jpg",
+        "clicked": false
+    },
+    {
+        "id" : 12,
+        "image": "./assets/images/wonder-woman84.jpg",
+        "clicked": false
+    }
+]
