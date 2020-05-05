@@ -35,7 +35,7 @@ class App extends Component {
             console.log ("Best Score: " + bestScore);
 
             correctGuesses = 0;
-            clickMessage = "You already clicked on this one!"
+            clickMessage = "You already clicked on this one! Try again!"
 
             for (let i = 0 ; i < matches.length ; i++){
                 matches[i].clicked = false;
