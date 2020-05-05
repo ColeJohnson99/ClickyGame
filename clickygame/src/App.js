@@ -99,7 +99,7 @@ class App extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>Clickity Clack Movie Game</Title>
+                <Title>Clicky Game: 2019/20 Movie Edition!</Title>
         
                 <h3 className="scoreSummary">
                     {this.state.clickMessage}
@@ -108,7 +108,7 @@ class App extends Component {
                 <h3 className="scoreSummary card-header">
                     Correct Guesses: {this.state.correctGuesses} 
                     <br />
-                    Best Score: {this.state.bestScore} 
+                    High Score: {this.state.bestScore} 
                 </h3>
                 <div className="container">
                 <div className="row">
